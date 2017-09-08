@@ -52,7 +52,7 @@ public class Calculate {
 	
 	//This method converts a binomial multiplication in foil form
 	public static String foil(int a, int b, int c, int d) {
-		return a*c + "x^2"+ ((a*d) + (b*c)) + "x" + b*d;
+		return a*c + "x^2 +" + ((a*d) + (b*c)) + "x" + b*d;
 	}
 	
 	
