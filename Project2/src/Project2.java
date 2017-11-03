@@ -9,7 +9,5 @@ public class Project2 {
 		System.out.println("hello -- this is project 2!!!");
 		System.out.print("hello -- this is project 2!!!");
 
-
-
-
+	}
 }
