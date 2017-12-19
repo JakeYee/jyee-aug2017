@@ -9,5 +9,6 @@ public class FracCalcNew {
 	int numerator;
 	int denominator;
 	String str;
+	Hi everyone
 	
 }
